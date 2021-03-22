@@ -1,1 +1,1 @@
-print("João antonio")
+print("João")
