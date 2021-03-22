@@ -1,1 +1,1 @@
-print ("Carlos Eduardo P. Yamada") 
+print ("Carlos Eduardo")
